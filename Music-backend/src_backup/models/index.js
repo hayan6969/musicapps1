@@ -1,0 +1,10 @@
+module.exports.Token = require('./token.model');
+module.exports.User = require('./user.model');
+module.exports.Music = require('./music.model');
+module.exports.UserSpace = require('./userSpace.model');
+module.exports.Job = require('./job.model');
+module.exports.AppliedJobs = require('./appliedJobs.model');
+module.exports.TrackFiles = require('./TrackFiles.model');
+module.exports.TrackChunks = require('./TrackChunks.model');
+module.exports.ShareMusicAsset = require('./shareMusicAsset.model');
+module.exports.ShareMusicCreation = require('./shareMusicCreation.model');

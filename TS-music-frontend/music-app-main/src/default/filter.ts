@@ -1,0 +1,51 @@
+export const filterContent = [
+  {
+    id: 1,
+    title: "Composition",
+  },
+  {
+    id: 2,
+    title: "Arrangement",
+  },
+  {
+    id: 3,
+    title: "Write Lyrics",
+  },
+  {
+    id: 4,
+    title: "Produce",
+  },
+];
+
+export const filterMusicUsage = [
+  { id: 1, title: "Ambient" },
+  { id: 2, title: "Blues" },
+  { id: 3, title: "Cinematic" },
+  { id: 4, title: "Classical" },
+  { id: 5, title: "Country" },
+  { id: 6, title: "Disco" },
+  { id: 7, title: "Dubstep" },
+  { id: 8, title: "Epic" },
+  { id: 9, title: "Folk" },
+  { id: 10, title: "Funk" },
+  { id: 11, title: "Hip hop" },
+  { id: 12, title: "Holiday" },
+  { id: 13, title: "House" },
+  { id: 14, title: "Indie Pop" },
+  { id: 15, title: "Jazz" },
+  { id: 16, title: "Latin" },
+  { id: 17, title: "Metal" },
+  { id: 18, title: "Neo-Soul" },
+  { id: 19, title: "New Age" },
+  { id: 20, title: "Orchestral" },
+  { id: 21, title: "Piano" },
+  { id: 22, title: "Pop" },
+  { id: 23, title: "R&B" },
+  { id: 24, title: "Rap" },
+  { id: 25, title: "Reggae" },
+  { id: 26, title: "Rock" },
+  { id: 27, title: "Samba" },
+  { id: 28, title: "Trap" },
+  { id: 29, title: "Underscore" },
+  { id: 30, title: "Video Game" },
+];

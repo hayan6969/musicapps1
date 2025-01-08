@@ -1,0 +1,68 @@
+export const SAVED_JOBS = [
+    {
+      id: 1,
+      imgSong: "https://docs.material-tailwind.com/img/face-2.jpg",
+      singerName: "Paramore",
+      songName: "Brick by Boring Brick",
+      imgComposer: "https://docs.material-tailwind.com/img/face-4.jpg",
+      composerName: "Hayley Williams",
+      savedJobs: true,
+    },
+    {
+      id: 2,
+      imgSong: "https://docs.material-tailwind.com/img/face-2.jpg",
+      singerName: "Paramore",
+      songName: "Brick by Boring Brick",
+      imgComposer: "https://docs.material-tailwind.com/img/face-4.jpg",
+      composerName: "Hayley Williams",
+      savedJobs: true,
+    },
+    {
+      id: 3,
+      imgSong: "https://docs.material-tailwind.com/img/face-2.jpg",
+      singerName: "Paramore",
+      songName: "Brick by Boring Brick",
+      imgComposer: "https://docs.material-tailwind.com/img/face-4.jpg",
+      composerName: "Hayley Williams",
+      savedJobs: true,
+    },
+  ];
+  
+  export const APPLIED_JOBS = [
+    {
+      id: 1,
+      imgSong: "https://docs.material-tailwind.com/img/face-2.jpg",
+      singerName: "Paramore",
+      songName: "Brick by Boring Brick",
+      imgComposer: "https://docs.material-tailwind.com/img/face-4.jpg",
+      composerName: "Hayley Williams",
+      appliedJobs: true,
+    },
+    {
+      id: 2,
+      imgSong: "https://docs.material-tailwind.com/img/face-2.jpg",
+      singerName: "Paramore",
+      songName: "Brick by Boring Brick",
+      imgComposer: "https://docs.material-tailwind.com/img/face-4.jpg",
+      composerName: "Hayley Williams",
+      appliedJobs: true,
+    },
+    {
+      id: 3,
+      imgSong: "https://docs.material-tailwind.com/img/face-2.jpg",
+      singerName: "Paramore",
+      songName: "Brick by Boring Brick",
+      imgComposer: "https://docs.material-tailwind.com/img/face-4.jpg",
+      composerName: "Hayley Williams",
+      appliedJobs: true,
+    },
+    {
+      id: 4,
+      imgSong: "https://docs.material-tailwind.com/img/face-2.jpg",
+      singerName: "Paramore",
+      songName: "Brick by Boring Brick",
+      imgComposer: "https://docs.material-tailwind.com/img/face-4.jpg",
+      composerName: "Hayley Williams",
+      appliedJobs: true,
+    },
+  ];

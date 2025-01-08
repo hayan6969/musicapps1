@@ -1,0 +1,32 @@
+@layer tailwind-base, primereact, tailwind-utilities;
+
+@layer tailwind-base {
+  @tailwind base;
+}
+
+@layer tailwind-utilities {
+  @tailwind components;
+  @tailwind utilities;
+}
+@import "primereact/resources/themes/saga-blue/theme.css"; /* Choose your theme */
+
+@font-face {
+  font-family: "noto-regular";
+  src: url("/fonts/NotoSans-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "noto-condensed";
+  src: url("/fonts/NotoSans_Condensed-Black.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "noto-semibold";
+  src: url("/fonts/NotoSans_SemiBold.ttf") format("truetype");
+  font-weight: semibold;
+  font-style: normal;
+}
